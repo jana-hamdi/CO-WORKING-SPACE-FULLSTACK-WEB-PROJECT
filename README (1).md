@@ -187,18 +187,7 @@ Fonts: [Playfair Display](https://fonts.google.com/specimen/Playfair+Display) (h
 
 If the database is unavailable or not configured, `config.php` sets `DB_CONNECTED = false` and all pages fall back to hardcoded `$demo_rooms` and `$demo_products` arrays. Forms still submit and return a demo success message — no DB writes occur.
 
----
 
-## 🤝 Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
-
----
-
-## 📜 License
-
-[MIT](LICENSE)
-
----
 
 > Built for WorkSpace · Smouha, Alexandria, Egypt 🇪🇬
